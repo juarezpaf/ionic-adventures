@@ -24,7 +24,7 @@ We already have nice presentations about Ionic, what about create your own? [Sta
 * [Hybrid Apps with Angular & Ionic Framework](http://www.slideshare.net/cihadhoruzoglu/hybrid-apps-with-angular-ionic-framework) by @cihadhoruzoglu
 * [Ionic Framework](http://www.slideshare.net/dylanswartz/ionic-slidedeck) by @dylan_swartz
 * [Ionic CLI adventures](http://pt.slideshare.net/juarezpaf/ionicadventures-ioniccli) by @juarezpaf
-* 
+
 ## Articles
 Do you want to become an expert with Ionic? What about start looking into [learnionic](http://learn.ionicframework.com/) section in the Ionic website.
 
