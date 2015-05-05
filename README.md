@@ -34,6 +34,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Getting Started Building Mobile Apps with the Ionic Framework](http://java.dzone.com/articles/getting-started-building-0) by @therockncoder
 - [Building a Simple App Using Ionic, an Advanced Mobile App Framework](http://www.sitepoint.com/building-simple-app-using-ionic-advanced-html5-mobile-app-framework/) by @jay3dec
 - [5 Ionic Framework App Development Tips and Tricks](http://www.sitepoint.com/5-ionic-app-development-tips-tricks/) by @thatpatrickguy
+- [O que eu preciso saber para começar com Ionic Framework](http://tutsmais.com.br/blog/ionicframework/o-que-eu-preciso-saber-para-comecar-com-ionic-framework/)(Portuguese) by @felquis
 
 `CLI`
 - [Example of Ionic’s Updating Feature](http://www.raymondcamden.com/2015/03/11/example-of-ionics-updating-feature) by @raymondcamden
