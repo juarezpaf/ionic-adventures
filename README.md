@@ -116,6 +116,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 * [Using Videogular together with Ionic in a simple project](https://github.com/max675/videogular-ionic-example-project)
 * [Cordova Plugin Watch Example](https://github.com/20steps/cordova-plugin-watch-example/tree/master/simple/SimpleDemo)
 * [Ionic Offline Storage](https://github.com/gylippus/ionic-offline-storage) - Example Ionic project for localStorage, localForage, WebSQL, SQLite
+* [Ionic Icons](http://ionicons.com/) - The premium icon font for Ionic Framework
 
 ## Twitter
 
