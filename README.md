@@ -45,6 +45,8 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Getting Started with Ionic & ngCordova](http://justinrodenbostel.com/2015/02/04/getting-started-with-ionic-ngcordova/) by @revdrjrr
 - [Make A Gallery-Like Image Grid Using Ionic Framework](https://blog.nraboy.com/2015/03/make-a-gallery-like-image-grid-using-ionic-framework/) by @nraboy
 - [Crafting a weather app with Ionic framework and Forecast.io](http://www.binpress.com/tutorial/a-simple-weather-forecast-app-with-ionic-framework-and-forecastio/107) by Sriram Kota
+- [ngCordoba WITH THE POWER OF ANGULARJS] (http://ngcordova.com/) by Mac Douvel
+
 
 `Crosswalk`
 - [Getting started with Crosswalk in Ionic](http://www.thomasmaximini.com/2015/01/23/getting-started-with-crosswalk-in-ionic.html) by @tmaximini
