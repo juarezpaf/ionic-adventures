@@ -9,6 +9,8 @@ Free and open source, Ionic offers a library of mobile-optimized HTML, CSS and J
 
 The best resource to get start with Ionic Framework is follow the [Getting Started](http://ionicframework.com/getting-started/) guide into Ionic Framework website and also watch the [Ionic Crash Course](https://www.youtube.com/watch?v=C-UwOWB9Io4) created by [Max Lynch](https://twitter.com/maxlynch) where he shows all initial steps to create amazing apps.
 
+[blog ionic](http://blog.ionic.io/announcing-ionic-templates-for-visual-studio/)
+
 ## Presentations
 
 We already have nice presentations about Ionic, what about create your own? [Start your presentation here](http://ionicframework.com/present-ionic/) :D
