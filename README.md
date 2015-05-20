@@ -14,7 +14,7 @@ The best resource to get start with Ionic Framework is follow the [Getting Start
 We already have nice presentations about Ionic, what about create your own? [Start your presentation here](http://ionicframework.com/present-ionic/) :D
 * [Ionic + Angular: Superpowers for Mobile App Development](http://adamdbradley.github.io/ionic-present/#/) by [@adamdbradley](https://twitter.com/adamdbradley) at [ng-conf 2015](http://www.ng-conf.org/)
 * [Ionic Crash Course! Hack-a-ton SF](http://www.slideshare.net/simpul/ionic-hackaton) by @simpulton
-* [Ionic Adventures - Hybrid Mobile Development Rocks](www.slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks) by @juarezpaf
+* [Ionic Adventures - Hybrid Mobile Development Rocks](http://www.slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks) by @juarezpaf
 * [Creating an hybrid app in minutes with Ionic Framework](http://www.slideshare.net/julienrenaux/hybrid-apps-withionic) by @julienrenaux
 * [Cordova, Angularjs & Ionic](http://www.slideshare.net/EddieLau1/cordova-angularjs-ionic-codeaholics) by @tatonlto
 * [Cross Platform Mobile Apps with the Ionic Framework](http://slideshare.net/rockncoder/rocking-the-ionic-framework) by @therockncoder
@@ -201,7 +201,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 ## Workshops & Courses
 
 - [Building Mobile Apps With the Ionic Framework and AngularJS](http://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs) by @smichelotti
-- [Using Ionic with Cordova/PhoneGap](www.oreilly.com/pub/e/3407) online on May 4 by @raymondcamden
+- [Using Ionic with Cordova/PhoneGap](http://www.oreilly.com/pub/e/3407) online on May 4 by @raymondcamden
 - [JSConfUY 2015 Ionic workshop app](https://github.com/startapplabs/jsconfuy) by @startapplabs
 - [Perfecting Cordova with Ionic at Fluent Conf](http://fluentconf.com/javascript-html-2015/public/schedule/detail/38903) by @raymondcamden
 - [Mobile Development for Web Developers](https://joshmorony.com/mobile-development-for-web-developers) `Coming soon` by @joshuamorony
