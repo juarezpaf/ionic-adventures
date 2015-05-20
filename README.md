@@ -136,10 +136,10 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 
 `IBM MobileFirst`
 - [Working with IBM MobileFirst and the Ionic Framework](http://www.raymondcamden.com/2015/03/23/working-with-ibm-mobilefirst-and-the-ionic-framework) by @raymondcamden
-- [Using MobileFirst HTTP Adapters with an Ionic Application](http://www.raymondcamden.com/2015/04/08/using-mobilefirst-http-adapters-with-an-ionic-application) by
-- [Using MobileFirst SQL Adapters with an Ionic Application](http://www.raymondcamden.com/2015/04/02/using-mobilefirst-sql-adapters-with-an-ionic-application) by 
-- [Using Remote Logging with Ionic and IBM MobileFirst](http://www.raymondcamden.com/2015/03/31/using-remote-logging-with-ionic-and-ibm-mobilefirst) by 
-- [Working with IBM MobileFirst and Ionic – Bootstrapping](http://www.raymondcamden.com/2015/03/24/working-with-ibm-mobilefirst-and-ionic-bootstraping) by
+- [Using MobileFirst HTTP Adapters with an Ionic Application](http://www.raymondcamden.com/2015/04/08/using-mobilefirst-http-adapters-with-an-ionic-application) by @raymondcamden
+- [Using MobileFirst SQL Adapters with an Ionic Application](http://www.raymondcamden.com/2015/04/02/using-mobilefirst-sql-adapters-with-an-ionic-application) by @raymondcamden 
+- [Using Remote Logging with Ionic and IBM MobileFirst](http://www.raymondcamden.com/2015/03/31/using-remote-logging-with-ionic-and-ibm-mobilefirst) by @raymondcamden
+- [Working with IBM MobileFirst and Ionic – Bootstrapping](http://www.raymondcamden.com/2015/03/24/working-with-ibm-mobilefirst-and-ionic-bootstraping) by @raymondcamden
 
 `Internationalization`
 - [Internationalization of an Ionic App: Multilanguage Support](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support) by @andrewmcgivery
