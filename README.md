@@ -230,6 +230,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 * [Using Videogular together with Ionic in a simple project](https://github.com/max675/videogular-ionic-example-project)
 * [Cordova Plugin Watch Example](https://github.com/20steps/cordova-plugin-watch-example/tree/master/simple/SimpleDemo)
 * [Ionic Offline Storage](https://github.com/gylippus/ionic-offline-storage) - Example Ionic project for localStorage, localForage, WebSQL, SQLite
+* [Ionic + Parse.com App Boilerplate](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) by @giiorgio_
 
 ## Build with Ionic
 - [Bartonic](https://github.com/arun0009/bartonic) by @agopalpuri
