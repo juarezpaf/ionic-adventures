@@ -156,6 +156,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 
 `PouchDB`
 - [Sync Data Using PouchDB In Your Ionic Framework App](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app) by @nraboy
+- [HTML5 Offline Mobile App Using Ionic and PouchDB](http://www.webspeaks.in/2015/03/html5-offline-mobile-app-using-ionic-pouchdb.html) by @jnthas
 
 `Push Notifications`
 - [Sending & Receiving Push Notifications in Ionic Apps](https://thinkster.io/ionic-push-notifications-tutorial/) by @ericsimons40
