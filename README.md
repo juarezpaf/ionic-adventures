@@ -12,7 +12,11 @@ The best resource to get start with Ionic Framework is follow the [Getting Start
 ## Presentations
 
 We already have nice presentations about Ionic, what about create your own? [Start your presentation here](http://ionicframework.com/present-ionic/) :D
+
 * [Ionic + Angular: Superpowers for Mobile App Development](http://adamdbradley.github.io/ionic-present/#/) by [@adamdbradley](https://twitter.com/adamdbradley) at [ng-conf 2015](http://www.ng-conf.org/)
+* [Reframing Hybrid](http://www.slideshare.net/BenSperry/reframing-hybrid-48859060) by @maxlynch & @benjsperry
+* [Work better and smarter with Ionic](http://mikehartington.com/ionic-san-francisco/) by @mhartington
+* [Hybrid mobile apps with Ionic & Firebase](https://sf-ionic-pres.firebaseapp.com/) by @srobtweets
 * [Ionic Crash Course! Hack-a-ton SF](http://www.slideshare.net/simpul/ionic-hackaton) by @simpulton
 * [Ionic Adventures - Hybrid Mobile Development Rocks](http://www.slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks) by @juarezpaf
 * [Creating an hybrid app in minutes with Ionic Framework](http://www.slideshare.net/julienrenaux/hybrid-apps-withionic) by @julienrenaux
@@ -46,6 +50,9 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Build a Hybrid Application with the Ionic Framework and Azure Mobile Services, Part 3: Wiring Up The Backend](http://briantroncone.com/?p=391) by @btroncone
 
 `Getting started`
+
+- [Getting Started with Ionic](http://blog.teamtreehouse.com/getting-started-ionic) by @chalkers
+- [Mobile Hybrid Apps with VS Code and Ionic](http://blogs.msdn.com/b/vscode/archive/2015/06/05/mobile-hybrid-apps-with-vs-code-and-ionic.aspx) by @chrisdias
 - [Mastering the Ionic Framework: Learn to Build & Deploy Native Speed HTML5 Based Apps](https://thinkster.io/ionic-framework-tutorial/) by @ericsimons40
 - [Ionic Tutorial](https://ccoenraets.github.io/ionic-tutorial) by @ccoenraets
 - [Getting Started Building Mobile Apps with the Ionic Framework](http://java.dzone.com/articles/getting-started-building-0) by @therockncoder
@@ -74,6 +81,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 `Comparison`
 - [The Top 7 Hybrid Mobile App Frameworks](http://www.sitepoint.com/top-7-hybrid-mobile-app-frameworks/) by @jay3dec
 - [Hybrid UI framework shootout: Ionic vs. Famo.us vs. F7 vs. OnsenUI](https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen) by gleichger.com
+- [Why Ionic is Reigniting the Native vs HTML5 Debate](http://blog.teamtreehouse.com/ionic-reigniting-native-vs-html5-debate) by @chalkers
  
 `Components`
 - [Understanding Ionic's Side Menu](http://mcgivery.com/understanding-ionics-side-menu) by @andrewmcgivery
@@ -84,6 +92,8 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Using Slide Boxes and Tabs in Ionic Framework Apps](https://blog.nraboy.com/2014/11/using-slide-boxes-tabs-ionic-framework-apps) by @nraboy
 
 `Cordova & ngCordova`
+
+- [Create A File Browser Using Ionic Framework](http://airpa.ir/1M7Ee3z) by @nraboy 
 - [Getting Started with Ionic & ngCordova](http://justinrodenbostel.com/2015/02/04/getting-started-with-ionic-ngcordova) by @revdrjrr
 - [Make A Gallery-Like Image Grid Using Ionic Framework](https://blog.nraboy.com/2015/03/make-a-gallery-like-image-grid-using-ionic-framework) by @nraboy
 - [Crafting a weather app with Ionic framework and Forecast.io](http://www.binpress.com/tutorial/a-simple-weather-forecast-app-with-ionic-framework-and-forecastio/107) by Sriram Kota
@@ -109,6 +119,9 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Ionic - Using Android x86 Virtual Machine Instead of Emulator](http://digitaldrummerj.me/Android-x86-Virtual-Machine-Instead-Of-Emulator) by @digitaldrummerj 
 
 `Firebase & External Requests`
+
+- [Using Ionic with Firebase](https://www.firebase.com/docs/web/libraries/ionic/guide.html) by @Firebase
+- [Ionic, AngularJS and Firebase equals Hybrid Heaven](http://blog.budacode.com/2015/06/09/ionic-angularjs-and-firebase-equals-hybrid-heaven/?utm_content=buffer6f4be&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by @budacode
 - [Building Real-Time, Multi-Platform Mobile Applications: Examples Using Ionic and Firebase](http://toptal.com/front-end/building-multi-platform-real-time-mobile-applications-using-ionic-framework-and-firebase) by Avinash Kaza
 - [Creating a Bucket List with the Ionic Framework and Firebase](http://www.sitepoint.com/creating-bucket-list-ionic-framework-firebase) by @jay3dec
 - [Create a Password Management App using Ionic and Firebase](http://airpa.ir/1zJD2wL) by @nraboy 
@@ -159,6 +172,9 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [HTML5 Offline Mobile App Using Ionic and PouchDB](http://www.webspeaks.in/2015/03/html5-offline-mobile-app-using-ionic-pouchdb.html) by @web_speaks
 
 `Push Notifications`
+
+- [Announcing Ionic Push Alpha!](http://blog.ionic.io/announcing-ionic-push-alpha/) by @Drawn_Closer
+- [Easy Ionic Push Notifications With Ionic.io In 15 Minutes](http://devdactic.com/ionic-push-notifications/) by @schlimmson
 - [Sending & Receiving Push Notifications in Ionic Apps](https://thinkster.io/ionic-push-notifications-tutorial/) by @ericsimons40
 - [Build an #iOS app with Push Notifications using Ionic Framework](http://airpa.ir/1HWd9R1) by @otelnov
 - [Push It Real Good with Ionic](https://www.airpair.com/javascript/posts/push-it-real-good-with-ionic) by @keithdmoore94
@@ -201,6 +217,8 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 
 ## Workshops & Courses
 
+- [Ionic by Example: Create Mobile Apps in HTML5](https://www.udemy.com/ionic-by-example/) by @mirkonasato
+- [How to create Apps with the Ionic Framework](http://devdactic.usefedora.com/courses/getting-started-with-ionic) by @schlimmson
 - [Building Mobile Apps With the Ionic Framework and AngularJS](http://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs) by @smichelotti
 - [Using Ionic with Cordova/PhoneGap](http://www.oreilly.com/pub/e/3407) online on May 4 by @raymondcamden
 - [JSConfUY 2015 Ionic workshop app](https://github.com/startapplabs/jsconfuy) by @startapplabs
@@ -212,6 +230,9 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Ionic Worldwide](http://blog.ionic.io/ionic-worldwide) by @katiegv
 
 ## Tools
+
+* [Ionic Deploy](http://docs.ionic.io/v1.0/docs/deploy-from-scratch)
+* [Ionic Market](http://market.ionic.io/) `Coming Soon`
 * [Ionic Creator](https://creator.ionic.io/)
 * [Ionic Sublime Plugin](https://github.com/imsingh/ionic-sublime-plugin)
 * [Ionic Atom](https://github.com/RokkinCat/ionic-atom)
@@ -233,6 +254,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 * [Ionic Offline Storage](https://github.com/gylippus/ionic-offline-storage) - Example Ionic project for localStorage, localForage, WebSQL, SQLite
 * [Ionic + Parse.com App Boilerplate](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) by @giiorgio_
 * [protractor-ionic-locator](https://github.com/MobileCaddy/protractor-ionic-locator) - Adds a locators to a protractor instance that find Ionic specific elements by @toddhalfpenny
+* [Opinionated Ionic base app](https://jasonbrown.io/announcing-the-release-of-an-opinionated-ionic-base-app/) by @jjaybrown98
 
 ## Build with Ionic
 - [Bartonic](https://github.com/arun0009/bartonic) by @agopalpuri
