@@ -28,6 +28,7 @@ We already have nice presentations about Ionic, what about create your own? [Sta
 * [Hybrid Apps with Angular & Ionic Framework](http://www.slideshare.net/cihadhoruzoglu/hybrid-apps-with-angular-ionic-framework) by @cihadhoruzoglu
 * [Ionic Framework](http://www.slideshare.net/dylanswartz/ionic-slidedeck) by @dylan_swartz
 * [Ionic CLI adventures](http://pt.slideshare.net/juarezpaf/ionicadventures-ioniccli) by @juarezpaf
+* [Ionic Framework: The excuses are over to start to create amazing apps](http://matheuscas.github.io/ionic-present/) by @matheuscas
 
 ## Articles
 Do you want to become an expert with Ionic? What about start looking into [learnionic](http://learn.ionicframework.com/) section in the Ionic website.
@@ -108,11 +109,13 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Crafting a weather app with Ionic framework and Forecast.io](http://www.binpress.com/tutorial/a-simple-weather-forecast-app-with-ionic-framework-and-forecastio/107) by Sriram Kota
 - [Minifying Your App’s Source Code](http://blog.ionic.io/minifying-your-source-code) by @nraboy
 - [Store Camera Photos Permanently Using PhoneGap, Ionic & ngCordova](http://www.joshmorony.com/store-camera-photos-permanently-using-phonegap-ionic-ngcordova) by @joshuamorony
+- [Whitelist External Resources For Use In Ionic Framework](https://blog.nraboy.com/2015/05/whitelist-external-resources-for-use-in-ionic-framework/) by @nraboy
 
 `Crosswalk`
 - [Getting started with Crosswalk in Ionic](http://www.thomasmaximini.com/2015/01/23/getting-started-with-crosswalk-in-ionic.html) by @tmaximini
 - [Use The Ionic CLI To Integrate Crosswalk Into Your Project](https://blog.nraboy.com/2015/02/use-ionic-cli-integrate-crosswalk-project) by @nraboy
 - [How to automatically sign your Android apk using Ionic framework and Crosswalk](https://baxeico.wordpress.com/2015/05/20/how-to-automatically-sign-your-android-apk-using-ionic-framework-and-crosswalk) by @baxeico
+- [Using the Crosswalk Project Runtime in Shared Mode](https://crosswalk-project.org/blog/crosswalk-shared-mode.html) by Francesco Balestrieri
 
 `Customize`
 - [Add Pin Code Unlock To Your IonicFramework App](https://blog.nraboy.com/2014/09/add-pin-code-unlock-ionicframework-app) by @nraboy
