@@ -121,7 +121,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Getting started with Crosswalk in Ionic](http://www.thomasmaximini.com/2015/01/23/getting-started-with-crosswalk-in-ionic.html) by @tmaximini
 - [Use The Ionic CLI To Integrate Crosswalk Into Your Project](https://blog.nraboy.com/2015/02/use-ionic-cli-integrate-crosswalk-project) by @nraboy
 - [How to automatically sign your Android apk using Ionic framework and Crosswalk](https://baxeico.wordpress.com/2015/05/20/how-to-automatically-sign-your-android-apk-using-ionic-framework-and-crosswalk) by @baxeico
-- [Using the Crosswalk Project Runtime in Shared Mode](https://crosswalk-project.org/blog/crosswalk-shared-mode.html) by Francesco Balestrieri
+- [Using the Crosswalk Project Runtime in Shared Mode](https://crosswalk-project.org/blog/crosswalk-shared-mode.html) by @il_bale
 
 `Customize`
 - [Add Pin Code Unlock To Your IonicFramework App](https://blog.nraboy.com/2014/09/add-pin-code-unlock-ionicframework-app) by @nraboy
@@ -205,7 +205,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 `PouchDB`
 - [Sync Data Using PouchDB In Your Ionic Framework App](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app) by @nraboy
 - [HTML5 Offline Mobile App Using Ionic and PouchDB](http://www.webspeaks.in/2015/03/html5-offline-mobile-app-using-ionic-pouchdb.html) by @web_speaks
-- [How To Use PouchDB + SQLite For Local Storage In Your Ionic App](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-your-ionic-app/ by )
+- [How To Use PouchDB + SQLite For Local Storage In Your Ionic App](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-your-ionic-app/ by @ashteya)
 
 `Push Notifications`
 - [An Introduction to Ionic Push](http://www.joshmorony.com/an-introduction-to-ionic-push/) by @joshuamorony
@@ -239,7 +239,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Optimize your Ionic Testing with Wallaby.js, Bard.js, and WebStorm](http://briantroncone.com/?p=463) by @BTroncone
 - [Unit Testing Your Ionic Framework App](http://mcgivery.com/unit-testing-ionic-app) by @andrewmcgivery
 - [Writing Your First Unit Test with the Ionic Framework](https://bradb.net/unit-testing-with-the-ionic-framework) by @berger_brad
-- [End2end Testing Ionic collection-repeat with Protractor](http://developer.mobilecaddy.net/2015/05/end2end-testing-ionic-collection-repeat-with-protractor/)
+- [End2end Testing Ionic collection-repeat with Protractor](http://developer.mobilecaddy.net/2015/05/end2end-testing-ionic-collection-repeat-with-protractor/ by @toddhalfpenny)
 
 `Vagrant`
 - [Ionic Box, a Vagrant Configuration for Hybrid Mobile Apps](http://www.sitepoint.com/ionic-box-vagrant-configuration-hybrid-mobile-apps/) by @aziflaj
