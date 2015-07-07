@@ -28,6 +28,7 @@ We already have nice presentations about Ionic, what about create your own? [Sta
 * [Hybrid Apps with Angular & Ionic Framework](http://www.slideshare.net/cihadhoruzoglu/hybrid-apps-with-angular-ionic-framework) by @cihadhoruzoglu
 * [Ionic Framework](http://www.slideshare.net/dylanswartz/ionic-slidedeck) by @dylan_swartz
 * [Ionic CLI adventures](http://pt.slideshare.net/juarezpaf/ionicadventures-ioniccli) by @juarezpaf
+* [Ionic Framework: The excuses are over to start to create amazing apps](http://matheuscas.github.io/ionic-present/) by @matheuscas
 
 ## Articles
 Do you want to become an expert with Ionic? What about start looking into [learnionic](http://learn.ionicframework.com/) section in the Ionic website.
@@ -73,11 +74,13 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Using The UI-Router To Navigate In Ionic Framework](https://blog.nraboy.com/2014/11/using-ui-router-navigate-ionicframework) by @nraboy
 - [Organising Code in an Ionic Application for Beginners](http://www.joshmorony.com/organising-code-in-an-ionic-application-for-beginners) by @joshuamorony
 - [Validation in Ionic Framework Apps with ngMessages](https://calendee.com/2014/12/26/validation-in-ionic-framework-apps-with-ngmessages) by @calendee
-- [Learning the Ionic Framework as a Sencha Touch Developer: Part 1](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-1) by @joshuamorony
-- [Learning the Ionic Framework as a Sencha Touch Developer: Part 2](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-2) by @joshuamorony
-- [Learning the Ionic Framework as a Sencha Touch Developer: Part 3](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-3) by @joshuamorony
-- [Learning the Ionic Framework as a Sencha Touch Developer: Part 4](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-4) by @joshuamorony
-- [Learning the Ionic Framework as a Sencha Touch Developer: Part 5](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-5) by @joshuamorony
+- [Learning the Ionic Framework as a Sencha Touch Developer: Part 1](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-1) => [#2](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-2), [#3](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-3), [#4](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-4), [#5](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-5) by @joshuamorony
+- [Build Your First Mobile App With The Ionic Framework - Part 1 - Introduction to Hybrid Mobile Apps](http://gonehybrid.com/build-your-first-mobile-app-with-the-ionic-framework-part-1/) by @ashteya
+- [Build Your First Mobile App With The Ionic Framework - Part 2 - Set Up your Development Environment](http://gonehybrid.com/build-your-first-mobile-app-with-the-ionic-framework-part-2/) by @ashteya
+- [Build Your First Mobile App With The Ionic Framework - Part 3 - Mockup with Ionic Creator](http://gonehybrid.com/build-your-first-mobile-app-with-the-ionic-framework-part-3/) by @ashteya
+- [Build Your First Mobile App With The Ionic Framework - Part 4 - Test on Browsers, Emulators and Mobile Devices](http://gonehybrid.com/build-your-first-mobile-app-with-the-ionic-framework-part-4/) by @ashteya
+- [Build Your First Mobile App With The Ionic Framework - Part 5 - Build out the App](http://gonehybrid.com/build-your-first-mobile-app-with-the-ionic-framework-part-5/) by @ashteya
+- [Build Your First Mobile App With The Ionic Framework - Part 6 - Deploy to Testers with Ionic View](http://gonehybrid.com/build-your-first-mobile-app-with-the-ionic-framework-part-6/) by @ashteya
 
 `CLI`
 - [The three most useful Ionic CLI features I use on a daily basis](http://www.intridea.com/blog/2015/5/19/the-ionic-cli) by @withinsight
@@ -108,11 +111,13 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Crafting a weather app with Ionic framework and Forecast.io](http://www.binpress.com/tutorial/a-simple-weather-forecast-app-with-ionic-framework-and-forecastio/107) by Sriram Kota
 - [Minifying Your App’s Source Code](http://blog.ionic.io/minifying-your-source-code) by @nraboy
 - [Store Camera Photos Permanently Using PhoneGap, Ionic & ngCordova](http://www.joshmorony.com/store-camera-photos-permanently-using-phonegap-ionic-ngcordova) by @joshuamorony
+- [Whitelist External Resources For Use In Ionic Framework](https://blog.nraboy.com/2015/05/whitelist-external-resources-for-use-in-ionic-framework/) by @nraboy
 
 `Crosswalk`
 - [Getting started with Crosswalk in Ionic](http://www.thomasmaximini.com/2015/01/23/getting-started-with-crosswalk-in-ionic.html) by @tmaximini
 - [Use The Ionic CLI To Integrate Crosswalk Into Your Project](https://blog.nraboy.com/2015/02/use-ionic-cli-integrate-crosswalk-project) by @nraboy
 - [How to automatically sign your Android apk using Ionic framework and Crosswalk](https://baxeico.wordpress.com/2015/05/20/how-to-automatically-sign-your-android-apk-using-ionic-framework-and-crosswalk) by @baxeico
+- [Using the Crosswalk Project Runtime in Shared Mode](https://crosswalk-project.org/blog/crosswalk-shared-mode.html) by @il_bale
 
 `Customize`
 - [Add Pin Code Unlock To Your IonicFramework App](https://blog.nraboy.com/2014/09/add-pin-code-unlock-ionicframework-app) by @nraboy
@@ -196,6 +201,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 `PouchDB`
 - [Sync Data Using PouchDB In Your Ionic Framework App](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app) by @nraboy
 - [HTML5 Offline Mobile App Using Ionic and PouchDB](http://www.webspeaks.in/2015/03/html5-offline-mobile-app-using-ionic-pouchdb.html) by @web_speaks
+- [How To Use PouchDB + SQLite For Local Storage In Your Ionic App](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-your-ionic-app) by @ashteya
 
 `Push Notifications`
 - [An Introduction to Ionic Push](http://www.joshmorony.com/an-introduction-to-ionic-push/) by @joshuamorony
@@ -229,6 +235,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Optimize your Ionic Testing with Wallaby.js, Bard.js, and WebStorm](http://briantroncone.com/?p=463) by @BTroncone
 - [Unit Testing Your Ionic Framework App](http://mcgivery.com/unit-testing-ionic-app) by @andrewmcgivery
 - [Writing Your First Unit Test with the Ionic Framework](https://bradb.net/unit-testing-with-the-ionic-framework) by @berger_brad
+- [End2end Testing Ionic collection-repeat with Protractor](http://developer.mobilecaddy.net/2015/05/end2end-testing-ionic-collection-repeat-with-protractor) by @toddhalfpenny
 
 `Vagrant`
 - [Ionic Box, a Vagrant Configuration for Hybrid Mobile Apps](http://www.sitepoint.com/ionic-box-vagrant-configuration-hybrid-mobile-apps/) by @aziflaj
