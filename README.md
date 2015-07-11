@@ -242,6 +242,8 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Build a Mobile App with the WordPress REST API and Ionic](http://reactor.apppresser.com/blog/wordpress-api-ionic-app/) by @scottbolinger
 - [Develop Your Ionic Apps Using WordPress](http://blog.ionic.io/develop-your-ionic-apps-using-wordpress-2/) by @katiegv
 
+##### Debugging
+- [Debugging Ionic Apps using Chrome Developer Tools](http://mcgivery.com/debugging-ionic-apps-chrome-developer-tools/) by @andrewmcgivery
 
 ## Books
 
