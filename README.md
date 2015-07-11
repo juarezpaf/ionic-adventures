@@ -326,6 +326,6 @@ Just join the official [Ionic Gitter](https://gitter.im/driftyco/ionic-io-tester
 
 ## Missing something?
 
-We're trying to keep up to date with all news related to Ionic Framework, please feel free to contribuiting [open an issue](https://github.com/juarezpaf/ionic-adventures/issues/new), submiting a Pull Request or seding any feedback.
+We're trying to keep up to date with all news related to Ionic Framework, please feel free to contributing [open an issue](https://github.com/juarezpaf/ionic-adventures/issues/new), submitting a Pull Request or sending any feedback.
 
 We're looking forward to hearing from you. Happy coding <3
