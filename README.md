@@ -242,6 +242,8 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Build a Mobile App with the WordPress REST API and Ionic](http://reactor.apppresser.com/blog/wordpress-api-ionic-app/) by @scottbolinger
 - [Develop Your Ionic Apps Using WordPress](http://blog.ionic.io/develop-your-ionic-apps-using-wordpress-2/) by @katiegv
 
+##### Debugging
+- [Debugging Ionic Apps using Chrome Developer Tools](http://mcgivery.com/debugging-ionic-apps-chrome-developer-tools/) by @andrewmcgivery
 
 ## Books
 
@@ -324,6 +326,6 @@ Just join the official [Ionic Gitter](https://gitter.im/driftyco/ionic-io-tester
 
 ## Missing something?
 
-We're trying to keep up to date with all news related to Ionic Framework, please feel free to contribuiting [open an issue](https://github.com/juarezpaf/ionic-adventures/issues/new), submiting a Pull Request or seding any feedback.
+We're trying to keep up to date with all news related to Ionic Framework, please feel free to contributing [open an issue](https://github.com/juarezpaf/ionic-adventures/issues/new), submitting a Pull Request or sending any feedback.
 
 We're looking forward to hearing from you. Happy coding <3
