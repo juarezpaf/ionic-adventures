@@ -252,6 +252,8 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 * [Developing an Ionic Edge - HTML5 Cross Platform Hybrid Apps](http://bleedingedgepress.com/developing-ionic-edge/) by @keithdmoore94 and others
 * [Full Stack Mobile App with Ionic Framework](http://amzn.com/B00QF1H380) by Hoc Phan
 * [Apache Cordova in Action](http://www.manning.com/camden/) by @raymondcamden
+* [Learning Ionic](https://www.packtpub.com/application-development/learning-ionic) by Arvind Ravulavaru
+* [Ionic Framework Cookbook](https://www.packtpub.com/web-development/ionic-framework-cookbook) by Hoc Phan
 
 ## Workshops & Courses
 
