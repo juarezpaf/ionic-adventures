@@ -1,3 +1,5 @@
+<img src="cover.png">
+
 # Ionic Adventures
 The ultimate guide to learn Ionic Framework and be tuned in to.
 
