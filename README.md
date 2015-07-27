@@ -139,6 +139,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Adding Background Images To Ionic Framework Apps](https://blog.nraboy.com/2015/04/adding-background-images-to-ionic-framework-apps) by @nraboy
 - [Animations For Your Ionic App with Move.js](http://devdactic.com/ionic-with-movejs) by @schlimmson
 - [How to Create Complex Layouts in Ionic](http://www.joshmorony.com/how-to-create-complex-layouts-in-ionic) by @joshuamorony
+- [Using Sass in Your Ionic Framework App Like a Pro](https://www.codementor.io/angularjs/tutorial/how-to-use-sass-in-ionic-framework-like-a-pro) by @CodementorIO `new`
 
 ##### Debugging
 - [How To Debug The White Screen Of Death In Your Ionic App](http://gonehybrid.com/how-to-debug-the-white-screen-of-death-in-your-ionic-app) by @ashteya `new`
