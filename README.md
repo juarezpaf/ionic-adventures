@@ -352,6 +352,9 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Ionic Box, a Vagrant Configuration for Hybrid Mobile Apps](http://www.sitepoint.com/ionic-box-vagrant-configuration-hybrid-mobile-apps/) by @aziflaj
 - [Ionic - The Ionicbox and How To Use It](http://digitaldrummerj.me/ionicbox-notes) by @digitaldrummerj
 
+##### Write-up
+- [The Evolution of Emojimon](https://medium.com/@adgad/the-evolution-of-emojimon-293b5fec787c) by @adgad `new`
+
 ##### Wordpress
 - [Build a Mobile App with the WordPress REST API and Ionic](http://reactor.apppresser.com/blog/wordpress-api-ionic-app/) by @scottbolinger
 - [Develop Your Ionic Apps Using WordPress](http://blog.ionic.io/develop-your-ionic-apps-using-wordpress-2/) by @katiegv
