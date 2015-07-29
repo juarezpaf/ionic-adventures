@@ -292,6 +292,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 ##### Platforms
 - [How To Create A Different Tab Layout Per Platform In Ionic](http://gonehybrid.com/how-to-create-a-different-tab-layout-per-platform-in-ionic) by @ashteya `new`
 - [Add ‘Rate my App’ in your ionic app to increase the number of ratings in the app store](http://devdactic.com/rate-my-app-ionic) by @schlimmson `new`
+- [Detailed guide to Ionic Platform classes](https://jasonbrown.io/detailed-guide-to-ionic-platform-classes/) by @delta98 `new`
 
 ##### PouchDB
 - [Sync Data Using PouchDB In Your Ionic Framework App](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app) by @nraboy
