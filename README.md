@@ -424,6 +424,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 * [Ionic Box](https://github.com/driftyco/ionic-box)
 
 ## Open Source
+* [Ionic Chat App using Sails as backend](https://github.com/giorgiofellipe/chat-app-sails-ionic) by @giiorgio_ `new`
 * [ionic-material-design-lite](https://github.com/delta98/ionic-material-design-lite) by @jjaybrown98 `new`
 * [Must-have plugins for Ionic Framework](http://www.gajotres.net/must-have-plugins-for-ionic-framework) by @gajotres `new`
 * [Subsonic.org Ionic Client](https://github.com/pathartl/diveapp) by @pathartl `new`
