@@ -58,7 +58,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 
 #### AngularJS
 
-- [Environment Variables](http://geekindulgence.com/environment-variables-in-angularjs-and-ionic/)
+- [Environment Variables](http://geekindulgence.com/environment-variables-in-angularjs-and-ionic/) by @jeff_french
 
 ##### Audio
 - [Using the Web Audio API for precision audio in Ionic](http://airpa.ir/1QScdnq) by @dsabar 
