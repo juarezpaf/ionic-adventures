@@ -56,7 +56,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Ionic and Angular 2](http://blog.ionic.io/angular-2-ionic) by @maxlynch
 - [What Impact Will AngularJS 2.0 Have on Ionic?](http://www.joshmorony.com/what-impact-will-angularjs-2-0-have-on-ionic) by @joshuamorony
 
-#### AngularJS
+##### AngularJS
 
 - [Environment Variables](http://geekindulgence.com/environment-variables-in-angularjs-and-ionic/) by @jeff_french
 
