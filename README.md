@@ -427,6 +427,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 * [Ionic Framework Cookbook](https://www.packtpub.com/web-development/ionic-framework-cookbook) by Hoc Phan
 
 ## Videos
+- [How to really configure your computer for Cordova (Mac or Windows)](https://www.youtube.com/watch?v=V7u0caTdjBQ) by @demianborba `new`
 - [Introduction to Ionic, a Cordova and AngularJS-based Mobile Web App Framework](http://www.infoq.com/presentations/ionic) by @mhartington `new`
 - [Visual Studio Tools for Apache Cordova](http://blog.ionic.io/visual-studio-tools-for-apache-cordova) by @mhartington `new`
 - [Build a Cross-Platform App with Ionic](https://www.youtube.com/watch?v=zj8ZFV9vv9k) by @SRobTweets
