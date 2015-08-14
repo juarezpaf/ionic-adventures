@@ -64,7 +64,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Environment Variables](http://geekindulgence.com/environment-variables-in-angularjs-and-ionic/) by @jeff_french
 
 ##### Audio
-- [Using the Web Audio API for precision audio in Ionic](http://airpa.ir/1QScdnq) by @dsabar 
+- [Using the Web Audio API for precision audio in Ionic](http://airpa.ir/1QScdnq) by @dsabar
 
 ##### Authentication
 - [Cookie-based Authentication in AngularJS](http://blog.ionic.io/angularjs-authentication) by @maxlynch
@@ -106,7 +106,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [The Top 7 Hybrid Mobile App Frameworks](http://www.sitepoint.com/top-7-hybrid-mobile-app-frameworks/) by @jay3dec
 - [Hybrid UI framework shootout: Ionic vs. Famo.us vs. F7 vs. OnsenUI](https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen) by gleichger.com
 - [Why Ionic is Reigniting the Native vs HTML5 Debate](http://blog.teamtreehouse.com/ionic-reigniting-native-vs-html5-debate) by @chalkers
- 
+
 ##### Components
 - [Ionic Framework Tabs: Go to Home View](http://www.clearlyinnovative.com/ionic-framework-tabs-go-home-view) by @C_Innovative
 - [Understanding Ionic's Side Menu](http://mcgivery.com/understanding-ionics-side-menu) by @andrewmcgivery
@@ -134,7 +134,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Don't Assume localStorage Will Always Work In Your Hybrid App](http://gonehybrid.com/dont-assume-localstorage-will-always-work-in-your-hybrid-app) by @ashteya
 - [Monitor Device Battery Status Using Ionic Framework](https://blog.nraboy.com/2015/07/monitor-device-battery-status-using-ionic-framework) by @nraboy
 - [An update to my RSS Reader built with Ionic](http://www.raymondcamden.com/2015/06/22/an-update-to-my-rss-reader-built-with-ionic) by @raymondcamden
-- [Create A File Browser Using Ionic Framework](http://airpa.ir/1M7Ee3z) by @nraboy 
+- [Create A File Browser Using Ionic Framework](http://airpa.ir/1M7Ee3z) by @nraboy
 - [Getting Started with Ionic & ngCordova](http://justinrodenbostel.com/2015/02/04/getting-started-with-ionic-ngcordova) by @revdrjrr
 - [Make A Gallery-Like Image Grid Using Ionic Framework](https://blog.nraboy.com/2015/03/make-a-gallery-like-image-grid-using-ionic-framework) by @nraboy
 - [Crafting a weather app with Ionic framework and Forecast.io](http://www.binpress.com/tutorial/a-simple-weather-forecast-app-with-ionic-framework-and-forecastio/107) by Sriram Kota
@@ -176,10 +176,10 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 
 ##### Emulation
 - [Ionic - Using Android x86 Virtual Machine Instead of Emulator](http://digitaldrummerj.me/Android-x86-Virtual-Machine-Instead-Of-Emulator) by @digitaldrummerj
- 
+
 ##### ES6
 - [ES6 — Let’s talk about ECMAScript 2015](https://medium.com/ecmascript-2015/let-s-talk-about-javascript-ecmascript-2015-es6-say-hello-world-658ce6941c) by @mrzepinski `new`
-- [How to use JavaScript 2015 (ES6) now in your Ionic app](http://labs.encoded.io/2015/06/22/use-es6-with-ionic/) by @mirkonasato 
+- [How to use JavaScript 2015 (ES6) now in your Ionic app](http://labs.encoded.io/2015/06/22/use-es6-with-ionic/) by @mirkonasato
 
 ##### Firebase & External Requests
 - [Adding Social Login with Firebase](http://blog.ionic.io/adding-social-login-with-firebase/) by @mhartington `new`
@@ -187,12 +187,12 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Making an Ionic Hybrid Mobile Application with Angular.js and Firebase](https://medium.com/@edoziizegbu/making-an-ionic-hybrid-mobile-application-with-html-css-and-js-361381fafad4) by Edozié Izegbu `new`
 - [Ionic & Firebase starter codelab](https://docs.google.com/document/d/1XgtPqprwEFHDff4MOfZKs9lc-KS_G02FhGJMbt6Kp74/view) by @GDGKansasCity
 - [Node Webkit, Firebase and Ionic Framework – A one to one chat client](http://thejackalofjavascript.com/one-to-one-chat-client) by @arvindr21
-- [A guide to design and develop a multi-tenant, secure and real time solution](https://www.airpair.com/firebase/posts/yatodo-guide) by @ksachdeva 
+- [A guide to design and develop a multi-tenant, secure and real time solution](https://www.airpair.com/firebase/posts/yatodo-guide) by @ksachdeva
 - [Using Ionic with Firebase](https://www.firebase.com/docs/web/libraries/ionic/guide.html) by @Firebase
 - [Ionic, AngularJS and Firebase equals Hybrid Heaven](http://blog.budacode.com/2015/06/09/ionic-angularjs-and-firebase-equals-hybrid-heaven/) by @martzellk
 - [Building Real-Time, Multi-Platform Mobile Applications: Examples Using Ionic and Firebase](http://toptal.com/front-end/building-multi-platform-real-time-mobile-applications-using-ionic-framework-and-firebase) by Avinash Kaza
 - [Creating a Bucket List with the Ionic Framework and Firebase](http://www.sitepoint.com/creating-bucket-list-ionic-framework-firebase) by @jay3dec
-- [Create a Password Management App using Ionic and Firebase](http://airpa.ir/1zJD2wL) by @nraboy 
+- [Create a Password Management App using Ionic and Firebase](http://airpa.ir/1zJD2wL) by @nraboy
 - [Real Time Synced Slides using Ionic, Firebase and AngularJS](http://ng-learn.org/2014/07/Project_Synces_Slides/) by @sesteva
 - [Upload Camera Images To Firebase Using Ionic Framework](https://www.airpair.com/ionic-framework/posts/ionic-firebase-camera-app) by @nraboy
 - [Sign Into Firebase With Facebook Using Ionic Framework](https://blog.nraboy.com/2015/03/sign-into-firebase-with-facebook-using-ionic-framework/) by @nraboy
@@ -271,7 +271,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Working with Ionic, Box, and IBM MobileFirst](http://www.raymondcamden.com/2015/06/24/working-with-ionic-box-and-ibm-mobilefirst) by @raymondcamden
 - [Working with IBM MobileFirst and the Ionic Framework](http://www.raymondcamden.com/2015/03/23/working-with-ibm-mobilefirst-and-the-ionic-framework) by @raymondcamden
 - [Using MobileFirst HTTP Adapters with an Ionic Application](http://www.raymondcamden.com/2015/04/08/using-mobilefirst-http-adapters-with-an-ionic-application) by @raymondcamden
-- [Using MobileFirst SQL Adapters with an Ionic Application](http://www.raymondcamden.com/2015/04/02/using-mobilefirst-sql-adapters-with-an-ionic-application) by @raymondcamden 
+- [Using MobileFirst SQL Adapters with an Ionic Application](http://www.raymondcamden.com/2015/04/02/using-mobilefirst-sql-adapters-with-an-ionic-application) by @raymondcamden
 - [Using Remote Logging with Ionic and IBM MobileFirst](http://www.raymondcamden.com/2015/03/31/using-remote-logging-with-ionic-and-ibm-mobilefirst) by @raymondcamden
 - [Working with IBM MobileFirst and Ionic – Bootstrapping](http://www.raymondcamden.com/2015/03/24/working-with-ibm-mobilefirst-and-ionic-bootstraping) by @raymondcamden
 
@@ -283,10 +283,10 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 ##### Internationalization
 - [Internationalization of an Ionic App: Multilanguage Support](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support) by @andrewmcgivery
 - [Internationalization and Localization with Ionic Framework and Angular Translate](https://blog.nraboy.com/2014/08/internationalization-localization-ionicframework-angular-translate) by @nraboy
- 
+
 ##### Meteor
 - [Meteor-React-Ionic Mobile App Part 1](https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-1-the-basic-template-9355ebf3397f) => Part [#2](https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-2-passing-in-data-a0478b17a53d), [#3](https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-3-tabs-and-modals-9d26f51c59ff),
-[#4.1](https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-4-1-users-and-settings-4fd3950b829f), 
+[#4.1](https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-4-1-users-and-settings-4fd3950b829f),
 [#4.2](https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-4-2-users-and-settings-6c87832470a5),
 [#4.3](https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-4-3-users-and-settings-3ecc171bfa5c) by @SamCorcos
 
@@ -310,7 +310,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Ionic Framework | Mixing Different UI patterns](http://www.gajotres.net/ionic-framework-tutorial-4-mixing-ui-patterns) by @gajotres
 - [Ionic Framework | Master Detail Pattern Overview](http://www.gajotres.net/ionic-framework-tutorial-5-master-detail-pattern) by @gajotres
 - [Ionic Framework | Side Menu Pattern Overview](http://www.gajotres.net/ionic-framework-tutorial-6-side-menu-pattern) by @gajotres`new`
-- [Ionic Framework | Tab Pattern Overview](http://www.gajotres.net/ionic-framework-tutorial-7-tab-pattern) by @gajotres 
+- [Ionic Framework | Tab Pattern Overview](http://www.gajotres.net/ionic-framework-tutorial-7-tab-pattern) by @gajotres
 
 ##### Performance
 - [Improving scroll performance for lists in Ionic Framework](http://www.thomasmaximini.com/2015/01/12/improving-scroll-performance-for-lists-in-ionic-framework.html) by @tmaximini
@@ -321,7 +321,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 ##### Phonegap
 - [Ionic Framework, Angularjs & PhoneGap Build- The Awesome Threesome!](http://thejackalofjavascript.com/ionic-angularjs-and-phonegap-build) by @arvindr21
 
-##### Platforms 
+##### Platforms
 - [Ionic Framework | Handling Android Back Button Like a Pro](http://www.gajotres.net/ionic-framework-handling-android-back-button-like-a-pro) by @gajotres `new`
 - [Note on Ionic framework: Android platform in OS X](https://medium.com/@victorleungtw/victor-leung-a5acd2e05f8e) by @victorleungtw `new`
 - [Deploy an Ionic App to the iOS App Store](https://medium.com/@_qzapaia/deploy-an-ionic-app-to-the-ios-app-store-702c79a2dd97) by @qzapaia `new`
@@ -419,7 +419,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 ## Books
 
 * [The Ionic Book](http://ionicframework.com/docs/guide/) by @ionicframework
-* [Ionic in Action - Hybrid Mobile Apps with Ionic and AngularJS](http://www.manning.com/wilken) by @gnomeontherun 
+* [Ionic in Action - Hybrid Mobile Apps with Ionic and AngularJS](http://www.manning.com/wilken) by @gnomeontherun
 * [Developing an Ionic Edge - HTML5 Cross Platform Hybrid Apps](http://bleedingedgepress.com/developing-ionic-edge/) by @keithdmoore94 and others
 * [Full Stack Mobile App with Ionic Framework](http://amzn.com/B00QF1H380) by Hoc Phan
 * [Apache Cordova in Action](http://www.manning.com/camden/) by @raymondcamden
@@ -482,6 +482,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 * [PHPStorm](http://www.sitepoint.com/phpstorm-8-released-see-whats-new-grab-free-license/)
 * [The Ionic Framework Cheatsheet](http://devdactic.com/ionic-cheatsheet/) by @schlimmson
 * [Ionic Box](https://github.com/driftyco/ionic-box)
+* [PlugReg](http://plugreg.com) - A search engine for Cordova/Phonegap plugins `new`
 
 ## Open Source
 * [Inbox by Gmail Mobile UI with Ionic](http://inboxclone.cfapps.io)  => [Source code](https://github.com/mattrothenberg/inboxclone) by @mattrothenberg `new`
