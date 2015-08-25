@@ -57,6 +57,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [WTF is ES6/TypeScript/AtScript/Babel?](http://learnangular2.com/es6) by @ionicframework
 - [Ionic and Angular 2](http://blog.ionic.io/angular-2-ionic) by @maxlynch
 - [What Impact Will AngularJS 2.0 Have on Ionic?](http://www.joshmorony.com/what-impact-will-angularjs-2-0-have-on-ionic) by @joshuamorony
+- [Intro to ECMAScript 6 and Angular 2 for Ionic Developers](http://www.joshmorony.com/intro-to-ecmascript-6-and-angular-2-for-ionic-developers/) by @joshuamorony
 
 ##### AngularJS
 - [Overriding a Directive in AngularJS](https://calendee.com/2015/08/03/overriding-a-directive-in-angularjs) by @Calendee `new`
