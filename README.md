@@ -521,6 +521,8 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Ionic Apps](http://www.producthunt.com/@maxlynch/collections/ionic-apps) by @maxlynch
 - [Ionic Showcase](http://showcase.ionicframework.com/)
 - [Challengepost's Ionic gallery](http://challengepost.com/software/built-with/ionic)
+- [Photogram - Instagram Clone](http://movibe.github.io/photogram-docs/) by @movibe
+
 
 ## Jobs
 
