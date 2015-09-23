@@ -29,6 +29,7 @@ We already have nice presentations about Ionic, what about create your own? [Sta
 * [Ionic Framework](http://www.slideshare.net/dylanswartz/ionic-slidedeck) by @dylan_swartz
 * [Ionic CLI adventures](http://pt.slideshare.net/juarezpaf/ionicadventures-ioniccli) by @juarezpaf
 * [Ionic Framework: The excuses are over to start to create amazing apps](http://matheuscas.github.io/ionic-present/) by @matheuscas
+* [Ionic: The Web SDK for Develop Mobile Apps](http://www.slideshare.net/matheusmcas/ionic-the-web-sdk-for-develop-mobile-apps) by @matheuscas
 
 ## Articles
 Do you want to become an expert with Ionic? What about start looking into [learnionic](http://learn.ionicframework.com/) section in the Ionic website.
