@@ -78,6 +78,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Build a Hybrid Application with the Ionic Framework and Azure Mobile Services, Part 1: Configuring the Project](briantroncone.com/?p=315) by @btroncone
 - [Build a Hybrid Application with the Ionic Framework and Azure Mobile Services, Part 2: Creating the User Interface](http://briantroncone.com/?p=365) by @btroncone
 - [Build a Hybrid Application with the Ionic Framework and Azure Mobile Services, Part 3: Wiring Up The Backend](http://briantroncone.com/?p=391) by @btroncone
+- [Hybrid Application development with Ionic  and Azure Mobile Services](https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/) by @AIDANJCASEY
 
 ##### Basics
 - [Ionic Framework FTW!](https://www.airpair.com/ionic-framework/posts/ionic-framework-ftw) by @agustinhaller
