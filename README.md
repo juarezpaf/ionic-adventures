@@ -154,6 +154,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Use The Ionic CLI To Integrate Crosswalk Into Your Project](https://blog.nraboy.com/2015/02/use-ionic-cli-integrate-crosswalk-project) by @nraboy
 - [How to automatically sign your Android apk using Ionic framework and Crosswalk](https://baxeico.wordpress.com/2015/05/20/how-to-automatically-sign-your-android-apk-using-ionic-framework-and-crosswalk) by @baxeico
 - [Using the Crosswalk Project Runtime in Shared Mode](https://crosswalk-project.org/blog/crosswalk-shared-mode.html) by @il_bale
+- [Boost your Cordova app performance with Crosswalk](http://geeklearning.io/boost-your-ionic-app-performance/) by @geek_learning
 
 ##### Customize
 - [Deep linking in Ionic Mobile Applications](https://medium.com/angularjs-articles/deep-linking-in-ionic-mobile-applications-44d8b4685bb3) by @wedgybo `new`
@@ -167,6 +168,8 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 ##### Debugging
 - [How To Debug The White Screen Of Death In Your Ionic App](http://gonehybrid.com/how-to-debug-the-white-screen-of-death-in-your-ionic-app) by @ashteya
 - [Debugging Ionic Apps using Chrome Developer Tools](http://mcgivery.com/debugging-ionic-apps-chrome-developer-tools/) by @andrewmcgivery
+- [Apache Cordova and remote debugging on iOS](http://geeklearning.io/apache-cordova-and-remote-debugging-on-ios/) by @geek_learning
+- [Apache Cordova and remote debugging on Android](http://geeklearning.io/apache-cordova-and-remote-debugging-on-android/) by @geek_learning
 
 ##### Drupal
 - [Building native mobile apps with Ionic and Drupal #1](http://www.blinkreaction.com/blog/building-native-apps-part-1) => Part [#2](http://www.blinkreaction.com/blog/building-native-apps-part-2), [#3](http://www.blinkreaction.com/blog/building-native-apps-part-3), [#4](http://www.blinkreaction.com/blog/building-native-apps-part-4), [#5](http://www.blinkreaction.com/blog/building-native-apps-part-5) and [#6](http://www.blinkreaction.com/blog/building-native-apps-part-6) by @FFWdev
