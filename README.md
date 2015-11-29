@@ -75,7 +75,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [How To Handle User Authentication With AngularJS Inside Your Ionic App](http://devdactic.com/user-auth-angularjs-ionic) by @schlimmson
 
 ##### Azure Mobile Services
-- [Build a Hybrid Application with the Ionic Framework and Azure Mobile Services, Part 1: Configuring the Project](briantroncone.com/?p=315) by @btroncone
+- [Build a Hybrid Application with the Ionic Framework and Azure Mobile Services, Part 1: Configuring the Project](http://briantroncone.com/?p=315) by @btroncone
 - [Build a Hybrid Application with the Ionic Framework and Azure Mobile Services, Part 2: Creating the User Interface](http://briantroncone.com/?p=365) by @btroncone
 - [Build a Hybrid Application with the Ionic Framework and Azure Mobile Services, Part 3: Wiring Up The Backend](http://briantroncone.com/?p=391) by @btroncone
 - [Hybrid Application development with Ionic  and Azure Mobile Services](https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/) by @AIDANJCASEY
