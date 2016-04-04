@@ -70,7 +70,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 
 ##### Authentication
 - [Cookie-based Authentication in AngularJS](http://blog.ionic.io/angularjs-authentication) by @maxlynch
-- [Handle User Sign-In With IonicFramework](https://blog.nraboy.com/2014/07/handle-user-sign-ionicframework) by @nraboy
+- [Handle User Sign-In With IonicFramework](https://www.thepolyglotdeveloper.com/2014/07/handle-user-sign-ionicframework) by @nraboy
 - [Simple login example with ionic and AngularJS](http://devdactic.com/simple-login-example-with-ionic-and-angularjs) by @schlimmson
 - [How To Handle User Authentication With AngularJS Inside Your Ionic App](http://devdactic.com/user-auth-angularjs-ionic) by @schlimmson
 
@@ -113,16 +113,16 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 ##### Components
 - [Ionic Framework Tabs: Go to Home View](http://www.clearlyinnovative.com/ionic-framework-tabs-go-home-view) by @C_Innovative
 - [Understanding Ionic's Side Menu](http://mcgivery.com/understanding-ionics-side-menu) by @andrewmcgivery
-- [Understanding Tabs in Ionic Framework](https://blog.nraboy.com/2014/12/understanding-tabs-ionic-framework) by @nraboy
+- [Understanding Tabs in Ionic Framework](https://www.thepolyglotdeveloper.com/2014/12/understanding-tabs-ionic-framework) by @nraboy
 - [Understanding the Ionic Framework Action Sheet](http://mcgivery.com/understanding-ionic-framework-action-sheet) by @andrewmcgivery
-- [Make List Items Swipeable in Ionic Framework](https://blog.nraboy.com/2014/12/make-list-items-swipeable-ionic-framework) by @nraboy
-- [Using Slide Boxes and Tabs in Ionic Framework Apps](https://blog.nraboy.com/2014/11/using-slide-boxes-tabs-ionic-framework-apps) by @nraboy
+- [Make List Items Swipeable in Ionic Framework](https://www.thepolyglotdeveloper.com/2014/12/make-list-items-swipeable-ionic-framework) by @nraboy
+- [Using Slide Boxes and Tabs in Ionic Framework Apps](https://www.thepolyglotdeveloper.com/2014/11/using-slide-boxes-tabs-ionic-framework-apps) by @nraboy
 
 ##### Cordova & ngCordova
 - [The Complete Guide To Images With Ionic](http://devdactic.com/complete-image-guide-ionic) by @schlimmson `new`
-- [Add Touch ID Authentication To Your Ionic Framework App](https://blog.nraboy.com/2015/08/add-touch-id-authentication-to-your-ionic-framework-app) by @nraboy `new`
-- [Modify The Badge Number Of An Ionic Framework App](https://blog.nraboy.com/2015/07/modify-the-badge-number-of-an-ionic-framework-app) by @nraboy `new`
-- [Using A Pin Dialog In Your Ionic Framework Mobile App](https://blog.nraboy.com/2015/07/using-a-pin-dialog-in-your-ionic-framework-mobile-app) by @nraboy `new`
+- [Add Touch ID Authentication To Your Ionic Framework App](https://www.thepolyglotdeveloper.com/2015/08/add-touch-id-authentication-to-your-ionic-framework-app) by @nraboy `new`
+- [Modify The Badge Number Of An Ionic Framework App](https://www.thepolyglotdeveloper.com/2015/07/modify-the-badge-number-of-an-ionic-framework-app) by @nraboy `new`
+- [Using A Pin Dialog In Your Ionic Framework Mobile App](https://www.thepolyglotdeveloper.com/2015/07/using-a-pin-dialog-in-your-ionic-framework-mobile-app) by @nraboy `new`
 - [Cordova/Ionic Sample App: My Sound Board](http://www.raymondcamden.com/2015/07/30/cordovaionic-sample-app-my-sound-board) => [Source code](https://github.com/cfjedimaster/Cordova-Examples/tree/master/mysoundboard) by @raymondcamden `new`
 - [Using Wizcorp’s phonegap-facebook-plugin + ionic for NATIVE SSO in iOS](https://medium.com/@giltamari/using-wizcorps-phonegap-facebook-plugin-ionic-for-native-sso-in-ios-ca30aa13e419) by Gil Tamari `new`
 - [How to Launch External Application With Ionic Framework](http://www.gajotres.net/how-to-launch-external-application-with-ionic-framework) by @gajotres
@@ -135,32 +135,32 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Ionic Framework, Cordova and File API – A Media Player App](http://thejackalofjavascript.com/ionic-framework-cordova-and-file-api-a-media-player-app) by @arvindr21
 - [Useful Cordova Plugins For Your Ionic Application & Examples](http://www.gajotres.net/useful-cordova-plugins-for-your-ionic-application-examples) by @gajotres
 - [Don't Assume localStorage Will Always Work In Your Hybrid App](http://gonehybrid.com/dont-assume-localstorage-will-always-work-in-your-hybrid-app) by @ashteya
-- [Monitor Device Battery Status Using Ionic Framework](https://blog.nraboy.com/2015/07/monitor-device-battery-status-using-ionic-framework) by @nraboy
+- [Monitor Device Battery Status Using Ionic Framework](https://www.thepolyglotdeveloper.com/2015/07/monitor-device-battery-status-using-ionic-framework) by @nraboy
 - [An update to my RSS Reader built with Ionic](http://www.raymondcamden.com/2015/06/22/an-update-to-my-rss-reader-built-with-ionic) by @raymondcamden
 - [Create A File Browser Using Ionic Framework](http://airpa.ir/1M7Ee3z) by @nraboy
 - [Getting Started with Ionic & ngCordova](http://justinrodenbostel.com/2015/02/04/getting-started-with-ionic-ngcordova) by @revdrjrr
-- [Make A Gallery-Like Image Grid Using Ionic Framework](https://blog.nraboy.com/2015/03/make-a-gallery-like-image-grid-using-ionic-framework) by @nraboy
+- [Make A Gallery-Like Image Grid Using Ionic Framework](https://www.thepolyglotdeveloper.com/2015/03/make-a-gallery-like-image-grid-using-ionic-framework) by @nraboy
 - [Crafting a weather app with Ionic framework and Forecast.io](http://www.binpress.com/tutorial/a-simple-weather-forecast-app-with-ionic-framework-and-forecastio/107) by Sriram Kota
 - [Minifying Your App’s Source Code](http://blog.ionic.io/minifying-your-source-code) by @nraboy
 - [Store Camera Photos Permanently Using PhoneGap, Ionic & ngCordova](http://www.joshmorony.com/store-camera-photos-permanently-using-phonegap-ionic-ngcordova) by @joshuamorony
-- [Whitelist External Resources For Use In Ionic Framework](https://blog.nraboy.com/2015/05/whitelist-external-resources-for-use-in-ionic-framework/) by @nraboy
+- [Whitelist External Resources For Use In Ionic Framework](https://www.thepolyglotdeveloper.com/2015/05/whitelist-external-resources-for-use-in-ionic-framework/) by @nraboy
 
-##### CouchDB
+##### Couchbase
 - [Using Couchbase in Your Ionic Framework Application Part 2](http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-2) by @nraboy `new`
 - [Using Couchbase in Your Ionic Framework Application Part 1](http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-1) by @nraboy
 
 ##### Crosswalk
 - [Getting started with Crosswalk in Ionic](http://www.thomasmaximini.com/2015/01/23/getting-started-with-crosswalk-in-ionic.html) by @tmaximini
-- [Use The Ionic CLI To Integrate Crosswalk Into Your Project](https://blog.nraboy.com/2015/02/use-ionic-cli-integrate-crosswalk-project) by @nraboy
+- [Use The Ionic CLI To Integrate Crosswalk Into Your Project](https://www.thepolyglotdeveloper.com/2015/02/use-ionic-cli-integrate-crosswalk-project) by @nraboy
 - [How to automatically sign your Android apk using Ionic framework and Crosswalk](https://baxeico.wordpress.com/2015/05/20/how-to-automatically-sign-your-android-apk-using-ionic-framework-and-crosswalk) by @baxeico
 - [Using the Crosswalk Project Runtime in Shared Mode](https://crosswalk-project.org/blog/crosswalk-shared-mode.html) by @il_bale
 - [Boost your Cordova app performance with Crosswalk](http://geeklearning.io/boost-your-ionic-app-performance/) by @geek_learning
 
 ##### Customize
 - [Deep linking in Ionic Mobile Applications](https://medium.com/angularjs-articles/deep-linking-in-ionic-mobile-applications-44d8b4685bb3) by @wedgybo `new`
-- [Add Pin Code Unlock To Your IonicFramework App](https://blog.nraboy.com/2014/09/add-pin-code-unlock-ionicframework-app) by @nraboy
-- [Embed Video In Your iOS And Android Ionic Framework App](https://blog.nraboy.com/2015/01/embed-video-ios-android-ionicframework-app) by @nraboy
-- [Adding Background Images To Ionic Framework Apps](https://blog.nraboy.com/2015/04/adding-background-images-to-ionic-framework-apps) by @nraboy
+- [Add Pin Code Unlock To Your IonicFramework App](https://www.thepolyglotdeveloper.com/2014/09/add-pin-code-unlock-ionicframework-app) by @nraboy
+- [Embed Video In Your iOS And Android Ionic Framework App](https://www.thepolyglotdeveloper.com/2015/01/embed-video-ios-android-ionicframework-app) by @nraboy
+- [Adding Background Images To Ionic Framework Apps](https://www.thepolyglotdeveloper.com/2015/04/adding-background-images-to-ionic-framework-apps) by @nraboy
 - [Animations For Your Ionic App with Move.js](http://devdactic.com/ionic-with-movejs) by @schlimmson
 - [How to Create Complex Layouts in Ionic](http://www.joshmorony.com/how-to-create-complex-layouts-in-ionic) by @joshuamorony
 - [Using Sass in Your Ionic Framework App Like a Pro](https://www.codementor.io/angularjs/tutorial/how-to-use-sass-in-ionic-framework-like-a-pro) by @CodementorIO
@@ -175,7 +175,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Building native mobile apps with Ionic and Drupal #1](http://www.blinkreaction.com/blog/building-native-apps-part-1) => Part [#2](http://www.blinkreaction.com/blog/building-native-apps-part-2), [#3](http://www.blinkreaction.com/blog/building-native-apps-part-3), [#4](http://www.blinkreaction.com/blog/building-native-apps-part-4), [#5](http://www.blinkreaction.com/blog/building-native-apps-part-5) and [#6](http://www.blinkreaction.com/blog/building-native-apps-part-6) by @FFWdev
 
 ##### Dropbox
-- [Syncing Data With Dropbox Using Ionic Framework](https://blog.nraboy.com/2014/10/syncing-data-dropbox-using-ionicframework) by @nraboy
+- [Syncing Data With Dropbox Using Ionic Framework](https://www.thepolyglotdeveloper.com/2014/10/syncing-data-dropbox-using-ionicframework) by @nraboy
 
 ##### Electron (atom shell)
 - [Some initial thoughts on building desktop apps with Ionic and Electron](http://www.raymondcamden.com/2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron) by @raymondcamden
@@ -201,13 +201,13 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Create a Password Management App using Ionic and Firebase](http://airpa.ir/1zJD2wL) by @nraboy
 - [Real Time Synced Slides using Ionic, Firebase and AngularJS](http://ng-learn.org/2014/07/Project_Synces_Slides/) by @sesteva
 - [Upload Camera Images To Firebase Using Ionic Framework](https://www.airpair.com/ionic-framework/posts/ionic-firebase-camera-app) by @nraboy
-- [Sign Into Firebase With Facebook Using Ionic Framework](https://blog.nraboy.com/2015/03/sign-into-firebase-with-facebook-using-ionic-framework/) by @nraboy
+- [Sign Into Firebase With Facebook Using Ionic Framework](https://www.thepolyglotdeveloper.com/2015/03/sign-into-firebase-with-facebook-using-ionic-framework/) by @nraboy
 - [Creating a Firebase Powered End to End Ionic Application](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/) by @arvindr21
-- [Syncing Data With Firebase Using Ionic Framework](https://blog.nraboy.com/2014/12/syncing-data-firebase-using-ionic-framework) by @nraboy
+- [Syncing Data With Firebase Using Ionic Framework](https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework) by @nraboy
 - [Create a Password Management App Using Ionic Framework and Firebase](https://www.airpair.com/ionic-framework/posts/ionic-firebase-password-manager) by @nraboy
 - [Ionic: Using Factories and Web Services for Dynamic Data](http://mcgivery.com/ionic-using-factories-and-web-services-for-dynamic-data) by @andrewmcgivery
 - [SOAP Web Services in Angular and Ionic](http://mcgivery.com/soap-web-services-angular-ionic) by @andrewmcgivery
-- [Make HTTP Requests In Android And iOS With IonicFramework](https://blog.nraboy.com/2014/08/make-http-requests-android-ios-ionicframework) by @nraboy
+- [Make HTTP Requests In Android And iOS With IonicFramework](https://www.thepolyglotdeveloper.com/2014/08/make-http-requests-android-ios-ionicframework) by @nraboy
 
 ##### Firefox OS
 - [Create an app Firefox OS](https://medium.com/dev-rocket/create-an-app-firefox-os-da777dfffcac) by @yrezgui `new`
@@ -244,7 +244,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Creating Views with Ionic](http://mcgivery.com/creating-views-with-ionic) by @andrewmcgivery
 - [Controllers in Ionic/Angular](http://mcgivery.com/controllers-ionicangular) by @andrewmcgivery
 - [Modules in Ionic/Angular](http://mcgivery.com/modules-ionicangular) by @andrewmcgivery
-- [Using The UI-Router To Navigate In Ionic Framework](https://blog.nraboy.com/2014/11/using-ui-router-navigate-ionicframework) by @nraboy
+- [Using The UI-Router To Navigate In Ionic Framework](https://www.thepolyglotdeveloper.com/2014/11/using-ui-router-navigate-ionicframework) by @nraboy
 - [Organising Code in an Ionic Application for Beginners](http://www.joshmorony.com/organising-code-in-an-ionic-application-for-beginners) by @joshuamorony
 - [Validation in Ionic Framework Apps with ngMessages](https://calendee.com/2014/12/26/validation-in-ionic-framework-apps-with-ngmessages) by @calendee
 - [Learning the Ionic Framework as a Sencha Touch Developer: Part 1](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-1) => [#2](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-2), [#3](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-3), [#4](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-4), [#5](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-5) by @joshuamorony
@@ -288,7 +288,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 
 ##### Internationalization
 - [Internationalization of an Ionic App: Multilanguage Support](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support) by @andrewmcgivery
-- [Internationalization and Localization with Ionic Framework and Angular Translate](https://blog.nraboy.com/2014/08/internationalization-localization-ionicframework-angular-translate) by @nraboy
+- [Internationalization and Localization with Ionic Framework and Angular Translate](https://www.thepolyglotdeveloper.com/2014/08/internationalization-localization-ionicframework-angular-translate) by @nraboy
 
 ##### Meteor
 - [Meteor-React-Ionic Mobile App Part 1](https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-1-the-basic-template-9355ebf3397f) => Part [#2](https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-2-passing-in-data-a0478b17a53d), [#3](https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-3-tabs-and-modals-9d26f51c59ff),
@@ -309,7 +309,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Starter Ionic Application Template w/Parse Integration](http://www.clearlyinnovative.com/starter-ionic-application-template-wparse-integration) => [Source code](https://github.com/aaronksaunders/parse-starter-ionic) by @C_Innovative
 - [Ionic Framework & Facebook Login with Parse](http://www.clearlyinnovative.com/ionic-framework-facebook-login-with-parse) by @C_Innovative
 - [Ionic Framework - Camera Image Uploads and Base64 Strings](http://www.clearlyinnovative.com/ionic-framework-camera-image-uploads-and-base64-strings) => [Source Code](https://github.com/aaronksaunders/Ionic-CameraTest6Plus) by @C_Innovative
-- [Use Parse Core In Your Ionic Framework Mobile Apps](https://blog.nraboy.com/2015/04/use-parse-core-in-ionic-framework-mobile-apps) by @nraboy
+- [Use Parse Core In Your Ionic Framework Mobile Apps](https://www.thepolyglotdeveloper.com/2015/04/use-parse-core-in-ionic-framework-mobile-apps) by @nraboy
 
 ##### Patterns
 - [Ionic Framework | UI patterns Overview](http://www.gajotres.net/ionic-framework-tutorial-3-page-patterns) by @gajotres
@@ -367,12 +367,12 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Twitter Mobile UI with @Ionicframework](http://codepen.io/mattrothenberg/pen/ZGjwjP) by @mattrothenberg `new`
 - [Ionic: Master Detail Pattern](http://mcgivery.com/ionic-master-detail-pattern) by @andrewmcgivery
 - [Creating a Feed in Ionic](http://mcgivery.com/creating-feed-ionic) by @andrewmcgivery
-- [Making Tinder-Style Swipe Cards With Ionic Framework](https://blog.nraboy.com/2015/01/making-tinder-style-swipe-cards-ionic-framework) by @nraboy
+- [Making Tinder-Style Swipe Cards With Ionic Framework](https://www.thepolyglotdeveloper.com/2015/01/making-tinder-style-swipe-cards-ionic-framework) by @nraboy
 - [Swipeable Cards with the Ionic Framework](http://devdactic.com/swipeable-cards-ionic) by @schlimmson
-- [Create A Complex Calculator App Using Ionic Framework](https://blog.nraboy.com/2015/04/create-a-complex-calculator-app-using-ionic-framework) by @nraboy
+- [Create A Complex Calculator App Using Ionic Framework](https://www.thepolyglotdeveloper.com/2015/04/create-a-complex-calculator-app-using-ionic-framework) by @nraboy
 
 ##### Saving Data
-- [Saving Data With IonicFramework](https://blog.nraboy.com/2014/06/saving-data-with-ionicframework) by @nraboy
+- [Saving Data With IonicFramework](https://www.thepolyglotdeveloper.com/2014/06/saving-data-with-ionicframework) by @nraboy
 
 ##### Setup Ionic
 - [Setup on Mac OS X](http://digitaldrummerj.me/ionic-setup-osx) by @digitaldrummerj
@@ -381,7 +381,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 ##### Storage (Local Storage, Web Storage, Web SQL & IndexedDB)
 - [Persisting Data to Local Storage in Ionic](https://www.packtpub.com/books/content/persisting-data-local-storage-ionic) by @therockncoder `new`
 - [Storing data in Ionic Framework and OnsenUI](http://www.gajotres.net/storing-data-in-ionic-framework-and-onsenui) by @gajotres
-- [Use SQLite Instead of Local Storage In Ionic Framework](https://blog.nraboy.com/2014/11/use-sqlite-instead-local-storage-ionic-framework) by @nraboy
+- [Use SQLite Instead of Local Storage In Ionic Framework](https://www.thepolyglotdeveloper.com/2014/11/use-sqlite-instead-local-storage-ionic-framework) by @nraboy
 
 ##### Testing
 - [How To Write Automated Tests For Your Ionic App - Part 1](http://gonehybrid.com/how-to-write-automated-tests-for-your-ionic-app-part-1) => [#2](http://gonehybrid.com/how-to-write-automated-tests-for-your-ionic-app-part-2) by @ashteya `new`
