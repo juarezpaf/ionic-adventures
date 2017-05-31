@@ -221,6 +221,7 @@ Scrolling too much? Check out [Ionic Collection](http://thompsonemerson.github.i
 - [Adding Gamecenter Support to your Ionic App](http://devdactic.com/gamecenter-ionic/) by @schlimmson
 
 ##### Getting started
+- [Getting Started with Ionic Framework: An Overview](https://hackernoon.com/getting-started-with-ionic-framework-an-overview-6725b687779b) by @amandeepmittal
 - :zap: [Introduction to Ionic with Developer Perry Govier](https://www.codementor.io/javascript/tutorial/what-is-ionic-framework-perry-govier) by @perrygovier `new`
 - [Getting Started with Ionic Framework](https://medium.com/ionic-tnt/getting-started-with-ionic-framework-91fc51a997c8) by @denzildoyle `new`
 - [Switching from native iOS to Ionic: Why Hybrid doesn't suck (anymore)](https://www.airpair.com/javascript/posts/switching-from-ios-to-ionic) by @schlimmson
